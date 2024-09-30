@@ -63,4 +63,5 @@ Ce projet est une application React TypeScript permettant de résoudre des équa
 - [mathjs](https://mathjs.org/) - Bibliothèque pour la manipulation des expressions mathématiques.
 - [react-chartjs-2](https://react-chartjs-2.js.org/) - Wrapper React pour afficher des graphiques avec Chart.js.
 
-EOL
+## bash script.sh
+
