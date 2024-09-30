@@ -27,5 +27,4 @@ Voici une capture d'écran du projet (si disponible) :
 1. Clone le projet depuis GitHub :
 
    ```bash
-   git clone https://github.com/ton-utilisateur/math-equation-solver.git
-   cd math-equation-solver
+   https://github.com/Chimie225/-quation.git
